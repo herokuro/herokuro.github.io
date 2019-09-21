@@ -1,7 +1,7 @@
 {
-  "name": "@herokuro Homepage",
+  "name": "@herokuro Website",
   "short_name": "@herokuro",
-  "description": "The official homepage of @herokuro, a set of Node.js tools to help kickstart and manage your Heroku projects.",
+  "description": "A set of Node.js tools to help kickstart and manage your Heroku projects.",
   "dir": "auto",
   "lang": "en-US",
   "display": "browser",
